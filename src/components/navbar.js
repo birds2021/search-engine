@@ -17,8 +17,8 @@ const navBar =()=>{
      <div className='right'>
          <div style={myCoponent} >
         <button className='ui button'><a href="/Home">Home</a></button>
-         <button className='ui button'><a href="/Service">Service</a></button>
-        <button className='ui button'><a href="/About">About</a></button>
+         <button className='ui button'><a href="/Service">Service Us</a></button>
+        <button className='ui button'><a href="/About">About Us</a></button>
         </div>
     </div>
      </div>
